@@ -5,7 +5,7 @@ class MercadolivreSpider(scrapy.Spider):
     allowed_domains = ["lista.mercadolivre.com.br"]
     start_urls = ["https://lista.mercadolivre.com.br/celular-recondicionado#D[A:celular%20recondicionado]"]
     page_count = 1
-    max_pages = 10
+    max_pages = 15
 
     def parse(self, response):
 
