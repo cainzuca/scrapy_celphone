@@ -53,4 +53,4 @@ astro dev start
 
 The [MIT License]() (MIT)
 
-Copyright :copyright: Ano - Titulo do Projeto
+Copyright :copyright: Ano - scrapy_cel
