@@ -9,9 +9,9 @@
 
 ### Tópicos 
 
-:small_blue_diamond: [Sobre o projeto](https://github.com/cainzuca/scrapy_celphone.git)
+:small_blue_diamond: [Sobre o projeto](#sobre-o-projeto)
 
-:small_blue_diamond: [Arquitetura](https://github.com/cainzuca/scrapy_celphone.git)
+:small_blue_diamond: [Arquitetura](#arquitetura)
 
 :small_blue_diamond: [Pré-requisitos](#pré-requisitos)
 
