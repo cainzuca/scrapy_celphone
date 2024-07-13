@@ -21,13 +21,17 @@
 ## Sobre o projeto 
 
 <p align="justify">
-  Este projeto tem o objetivo de extrair dados de celulares usados do mercado livre, para fazer análises de price. Com isso, utiliza python, junto com a biblioteca "scrapy" para fazer a extração dos dados. Após a extração, os dados são transformados com pandas, e carregados em um banco de dados PostgreSQL, que está alocado em um cluster na Google Cloud. Todo esse processo é orquestrado com o airflow, que é reponsável de automatizar todo o processo.
+  Este projeto visa extrair dados de celulares usados do Mercado Livre para realizar análises baseadas no preço dos produtos. Utilizando Python e a biblioteca Scrapy, os dados são extraídos e transformados com Pandas. Em seguida, são carregados em um banco de dados PostgreSQL, alocado em um cluster na Google Cloud. Todo o processo é orquestrado pelo Apache Airflow, que automatiza a extração, transformação e carregamento dos dados.
 </p>
 
 ## Arquitetura
 
   ![diagrama scrapy drawio](https://github.com/user-attachments/assets/75f6fae0-74ea-459d-9a06-b53431c36fa5)
-  
+
+## Pré requisitos
+
+:warning:[Python](https://www.python.org/downloads/) <br>
+:warning:[Docker](https://www.docker.com/products/docker-desktop/) <br>
 
 ## Como rodar a aplicação :arrow_forward:
 
