@@ -57,4 +57,4 @@ astro dev start
 
 The [MIT License]() (MIT)
 
-Copyright :copyright: Ano - scrapy_cel
+Copyright :copyright: 2024 - scrapy_cel
